@@ -1,3 +1,6 @@
+> [!WARNING]
+> I don't use AstroNvim anymore, feel free to use this though
+
 # AstroNvim User Configuration Example
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
